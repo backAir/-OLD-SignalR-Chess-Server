@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "smjZrVErssSKsGlve93QlitiQr92RmjjIlQR7XaNG/dWTQmQxOaqZvAHIA3oZBcspmMDm867QvkbZJR3UeZZLQ==",
+  "dgSpecHash": "13Hw/dZJVmfweiooMWJHSElSVlqc4v60/nWHrKa+25WJG+Ja8ENV8U7VocA+SlHuV7F5x8rGjq18eSoOxXKQ1A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tonyl\\Desktop\\SignalRHost\\SignalRChat.csproj",
+  "projectFilePath": "C:\\Users\\tonyl\\Desktop\\SignalR-Chess-Server\\SignalRChat.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tonyl\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\7.0.0-rc.1.22427.2\\microsoft.aspnetcore.connections.abstractions.7.0.0-rc.1.22427.2.nupkg.sha512",
     "C:\\Users\\tonyl\\.nuget\\packages\\microsoft.aspnetcore.http.connections.client\\7.0.0-rc.1.22427.2\\microsoft.aspnetcore.http.connections.client.7.0.0-rc.1.22427.2.nupkg.sha512",
