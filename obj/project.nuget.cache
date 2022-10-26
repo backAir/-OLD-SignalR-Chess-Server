@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "u651x1BDtG4gtS5r2KmmxCFveO+++pwWSoOSm9uo7l1lsS20wmyi+k3p9l225S2LGcNdUqQaE59HXGhFzaek5Q==",
+  "dgSpecHash": "B4NdnySoVivW5o29DI+EX1QFYR3rhpzMwvkKF1C61oXwRlci2XifAxfWjEwOPtfrbWFtLwAC6uWzYn6EXRIavQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tonyl\\Downloads\\Unity-WebGL-SignalR-master (2)\\Unity-WebGL-SignalR-master\\Server\\SignalRServer.csproj",
+  "projectFilePath": "C:\\Users\\tonyl\\Desktop\\SignalR-Chess-Server\\SignalRServer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

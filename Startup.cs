@@ -23,13 +23,12 @@ namespace SignalRServer
                 app.UseDeveloperExceptionPage();
             }
 
-            app.UseCors(builder =>
-            {
-                builder.WithOrigins("http://localhost:3000")
-                    .AllowAnyMethod()
-                    .AllowAnyHeader()
-                    .AllowCredentials();
-            });
+            app.UseCors(builder => builder
+                .AllowAnyHeader()
+                .AllowAnyMethod()
+                .SetIsOriginAllowed(_ => true)
+                .AllowCredentials()
+            );
 
             // Provider mappings needed for Brotli compression format from Unity publishing settings
             var provider = new FileExtensionContentTypeProvider();
