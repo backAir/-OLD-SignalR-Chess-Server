@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "FW4ZP21IFGK4OHFuHiKzUrVFWH7bR/6NnQLKDGBvGLI=",
+  "Hash": "j9rcnaZRYYf/XkDtpgFjPn0Az8WAB6SdBQscMMzP8iE=",
   "Source": "SignalRServer",
   "BasePath": "_content/SignalRServer",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "SignalRServer\\wwwroot",
       "Source": "SignalRServer",
-      "ContentRoot": "C:\\Users\\tonyl\\Downloads\\Unity-WebGL-SignalR-master (2)\\Unity-WebGL-SignalR-master\\Server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tonyl\\Desktop\\SignalR-Chess-Server\\wwwroot\\",
       "BasePath": "_content/SignalRServer",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\tonyl\\Downloads\\Unity-WebGL-SignalR-master (2)\\Unity-WebGL-SignalR-master\\Server\\wwwroot\\Build\\wwwroot.data.unityweb",
+      "Identity": "C:\\Users\\tonyl\\Desktop\\SignalR-Chess-Server\\wwwroot\\Build\\wwwroot.data.unityweb",
       "SourceId": "SignalRServer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tonyl\\Downloads\\Unity-WebGL-SignalR-master (2)\\Unity-WebGL-SignalR-master\\Server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tonyl\\Desktop\\SignalR-Chess-Server\\wwwroot\\",
       "BasePath": "_content/SignalRServer",
       "RelativePath": "Build/wwwroot.data.unityweb",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\Build\\wwwroot.data.unityweb"
     },
     {
-      "Identity": "C:\\Users\\tonyl\\Downloads\\Unity-WebGL-SignalR-master (2)\\Unity-WebGL-SignalR-master\\Server\\wwwroot\\Build\\wwwroot.framework.js.unityweb",
+      "Identity": "C:\\Users\\tonyl\\Desktop\\SignalR-Chess-Server\\wwwroot\\Build\\wwwroot.framework.js.unityweb",
       "SourceId": "SignalRServer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tonyl\\Downloads\\Unity-WebGL-SignalR-master (2)\\Unity-WebGL-SignalR-master\\Server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tonyl\\Desktop\\SignalR-Chess-Server\\wwwroot\\",
       "BasePath": "_content/SignalRServer",
       "RelativePath": "Build/wwwroot.framework.js.unityweb",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\Build\\wwwroot.framework.js.unityweb"
     },
     {
-      "Identity": "C:\\Users\\tonyl\\Downloads\\Unity-WebGL-SignalR-master (2)\\Unity-WebGL-SignalR-master\\Server\\wwwroot\\Build\\wwwroot.loader.js",
+      "Identity": "C:\\Users\\tonyl\\Desktop\\SignalR-Chess-Server\\wwwroot\\Build\\wwwroot.loader.js",
       "SourceId": "SignalRServer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tonyl\\Downloads\\Unity-WebGL-SignalR-master (2)\\Unity-WebGL-SignalR-master\\Server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tonyl\\Desktop\\SignalR-Chess-Server\\wwwroot\\",
       "BasePath": "_content/SignalRServer",
       "RelativePath": "Build/wwwroot.loader.js",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\Build\\wwwroot.loader.js"
     },
     {
-      "Identity": "C:\\Users\\tonyl\\Downloads\\Unity-WebGL-SignalR-master (2)\\Unity-WebGL-SignalR-master\\Server\\wwwroot\\Build\\wwwroot.wasm.unityweb",
+      "Identity": "C:\\Users\\tonyl\\Desktop\\SignalR-Chess-Server\\wwwroot\\Build\\wwwroot.wasm.unityweb",
       "SourceId": "SignalRServer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tonyl\\Downloads\\Unity-WebGL-SignalR-master (2)\\Unity-WebGL-SignalR-master\\Server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tonyl\\Desktop\\SignalR-Chess-Server\\wwwroot\\",
       "BasePath": "_content/SignalRServer",
       "RelativePath": "Build/wwwroot.wasm.unityweb",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\Build\\wwwroot.wasm.unityweb"
     },
     {
-      "Identity": "C:\\Users\\tonyl\\Downloads\\Unity-WebGL-SignalR-master (2)\\Unity-WebGL-SignalR-master\\Server\\wwwroot\\index.html",
+      "Identity": "C:\\Users\\tonyl\\Desktop\\SignalR-Chess-Server\\wwwroot\\index.html",
       "SourceId": "SignalRServer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tonyl\\Downloads\\Unity-WebGL-SignalR-master (2)\\Unity-WebGL-SignalR-master\\Server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tonyl\\Desktop\\SignalR-Chess-Server\\wwwroot\\",
       "BasePath": "_content/SignalRServer",
       "RelativePath": "index.html",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Users\\tonyl\\Downloads\\Unity-WebGL-SignalR-master (2)\\Unity-WebGL-SignalR-master\\Server\\wwwroot\\TemplateData\\favicon.ico",
+      "Identity": "C:\\Users\\tonyl\\Desktop\\SignalR-Chess-Server\\wwwroot\\TemplateData\\favicon.ico",
       "SourceId": "SignalRServer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tonyl\\Downloads\\Unity-WebGL-SignalR-master (2)\\Unity-WebGL-SignalR-master\\Server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tonyl\\Desktop\\SignalR-Chess-Server\\wwwroot\\",
       "BasePath": "_content/SignalRServer",
       "RelativePath": "TemplateData/favicon.ico",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\TemplateData\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\tonyl\\Downloads\\Unity-WebGL-SignalR-master (2)\\Unity-WebGL-SignalR-master\\Server\\wwwroot\\TemplateData\\fullscreen-button.png",
+      "Identity": "C:\\Users\\tonyl\\Desktop\\SignalR-Chess-Server\\wwwroot\\TemplateData\\fullscreen-button.png",
       "SourceId": "SignalRServer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tonyl\\Downloads\\Unity-WebGL-SignalR-master (2)\\Unity-WebGL-SignalR-master\\Server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tonyl\\Desktop\\SignalR-Chess-Server\\wwwroot\\",
       "BasePath": "_content/SignalRServer",
       "RelativePath": "TemplateData/fullscreen-button.png",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\TemplateData\\fullscreen-button.png"
     },
     {
-      "Identity": "C:\\Users\\tonyl\\Downloads\\Unity-WebGL-SignalR-master (2)\\Unity-WebGL-SignalR-master\\Server\\wwwroot\\TemplateData\\progress-bar-empty-dark.png",
+      "Identity": "C:\\Users\\tonyl\\Desktop\\SignalR-Chess-Server\\wwwroot\\TemplateData\\progress-bar-empty-dark.png",
       "SourceId": "SignalRServer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tonyl\\Downloads\\Unity-WebGL-SignalR-master (2)\\Unity-WebGL-SignalR-master\\Server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tonyl\\Desktop\\SignalR-Chess-Server\\wwwroot\\",
       "BasePath": "_content/SignalRServer",
       "RelativePath": "TemplateData/progress-bar-empty-dark.png",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\TemplateData\\progress-bar-empty-dark.png"
     },
     {
-      "Identity": "C:\\Users\\tonyl\\Downloads\\Unity-WebGL-SignalR-master (2)\\Unity-WebGL-SignalR-master\\Server\\wwwroot\\TemplateData\\progress-bar-empty-light.png",
+      "Identity": "C:\\Users\\tonyl\\Desktop\\SignalR-Chess-Server\\wwwroot\\TemplateData\\progress-bar-empty-light.png",
       "SourceId": "SignalRServer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tonyl\\Downloads\\Unity-WebGL-SignalR-master (2)\\Unity-WebGL-SignalR-master\\Server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tonyl\\Desktop\\SignalR-Chess-Server\\wwwroot\\",
       "BasePath": "_content/SignalRServer",
       "RelativePath": "TemplateData/progress-bar-empty-light.png",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\TemplateData\\progress-bar-empty-light.png"
     },
     {
-      "Identity": "C:\\Users\\tonyl\\Downloads\\Unity-WebGL-SignalR-master (2)\\Unity-WebGL-SignalR-master\\Server\\wwwroot\\TemplateData\\progress-bar-full-dark.png",
+      "Identity": "C:\\Users\\tonyl\\Desktop\\SignalR-Chess-Server\\wwwroot\\TemplateData\\progress-bar-full-dark.png",
       "SourceId": "SignalRServer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tonyl\\Downloads\\Unity-WebGL-SignalR-master (2)\\Unity-WebGL-SignalR-master\\Server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tonyl\\Desktop\\SignalR-Chess-Server\\wwwroot\\",
       "BasePath": "_content/SignalRServer",
       "RelativePath": "TemplateData/progress-bar-full-dark.png",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\TemplateData\\progress-bar-full-dark.png"
     },
     {
-      "Identity": "C:\\Users\\tonyl\\Downloads\\Unity-WebGL-SignalR-master (2)\\Unity-WebGL-SignalR-master\\Server\\wwwroot\\TemplateData\\progress-bar-full-light.png",
+      "Identity": "C:\\Users\\tonyl\\Desktop\\SignalR-Chess-Server\\wwwroot\\TemplateData\\progress-bar-full-light.png",
       "SourceId": "SignalRServer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tonyl\\Downloads\\Unity-WebGL-SignalR-master (2)\\Unity-WebGL-SignalR-master\\Server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tonyl\\Desktop\\SignalR-Chess-Server\\wwwroot\\",
       "BasePath": "_content/SignalRServer",
       "RelativePath": "TemplateData/progress-bar-full-light.png",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\TemplateData\\progress-bar-full-light.png"
     },
     {
-      "Identity": "C:\\Users\\tonyl\\Downloads\\Unity-WebGL-SignalR-master (2)\\Unity-WebGL-SignalR-master\\Server\\wwwroot\\TemplateData\\style.css",
+      "Identity": "C:\\Users\\tonyl\\Desktop\\SignalR-Chess-Server\\wwwroot\\TemplateData\\style.css",
       "SourceId": "SignalRServer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tonyl\\Downloads\\Unity-WebGL-SignalR-master (2)\\Unity-WebGL-SignalR-master\\Server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tonyl\\Desktop\\SignalR-Chess-Server\\wwwroot\\",
       "BasePath": "_content/SignalRServer",
       "RelativePath": "TemplateData/style.css",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\TemplateData\\style.css"
     },
     {
-      "Identity": "C:\\Users\\tonyl\\Downloads\\Unity-WebGL-SignalR-master (2)\\Unity-WebGL-SignalR-master\\Server\\wwwroot\\TemplateData\\unity-logo-dark.png",
+      "Identity": "C:\\Users\\tonyl\\Desktop\\SignalR-Chess-Server\\wwwroot\\TemplateData\\unity-logo-dark.png",
       "SourceId": "SignalRServer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tonyl\\Downloads\\Unity-WebGL-SignalR-master (2)\\Unity-WebGL-SignalR-master\\Server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tonyl\\Desktop\\SignalR-Chess-Server\\wwwroot\\",
       "BasePath": "_content/SignalRServer",
       "RelativePath": "TemplateData/unity-logo-dark.png",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\TemplateData\\unity-logo-dark.png"
     },
     {
-      "Identity": "C:\\Users\\tonyl\\Downloads\\Unity-WebGL-SignalR-master (2)\\Unity-WebGL-SignalR-master\\Server\\wwwroot\\TemplateData\\unity-logo-light.png",
+      "Identity": "C:\\Users\\tonyl\\Desktop\\SignalR-Chess-Server\\wwwroot\\TemplateData\\unity-logo-light.png",
       "SourceId": "SignalRServer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tonyl\\Downloads\\Unity-WebGL-SignalR-master (2)\\Unity-WebGL-SignalR-master\\Server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tonyl\\Desktop\\SignalR-Chess-Server\\wwwroot\\",
       "BasePath": "_content/SignalRServer",
       "RelativePath": "TemplateData/unity-logo-light.png",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\TemplateData\\unity-logo-light.png"
     },
     {
-      "Identity": "C:\\Users\\tonyl\\Downloads\\Unity-WebGL-SignalR-master (2)\\Unity-WebGL-SignalR-master\\Server\\wwwroot\\TemplateData\\webgl-logo.png",
+      "Identity": "C:\\Users\\tonyl\\Desktop\\SignalR-Chess-Server\\wwwroot\\TemplateData\\webgl-logo.png",
       "SourceId": "SignalRServer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tonyl\\Downloads\\Unity-WebGL-SignalR-master (2)\\Unity-WebGL-SignalR-master\\Server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\tonyl\\Desktop\\SignalR-Chess-Server\\wwwroot\\",
       "BasePath": "_content/SignalRServer",
       "RelativePath": "TemplateData/webgl-logo.png",
       "AssetKind": "All",
